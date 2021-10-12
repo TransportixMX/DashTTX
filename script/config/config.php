@@ -12,16 +12,16 @@
 /* Configuaration Settings */
 global $config;
 //script url - Enter complete url inside which script folder is placed. Please note that it doesn't include the script folder
-$config["script_url"] = "http://localhost/dev/sistemas/transpotix/";
+$config["script_url"] = "http://dash.transportix.site/DashTTX/";
 /************************ database ************************/
 //Set the host name to connect for database
-$config["hostname"] =  "localhost";
+$config["hostname"] =  "3.21.46.100";
 //Set the database name
 $config["database"] = "pdocrud";
 //Set the username for database access
-$config["username"] = "root";
+$config["username"] = "vyxer";
 //Set the pwd for the database user
-$config["password"] = "";
+$config["password"] = "110315";
 //Set the database type to be used. Available values are "mysql", "pgsql", "sqlite" and "sqlserver".
 $config["dbtype"] = "mysql";
 //Please enter purchase code. Please check how to find purchase code details here https://help.market.envato.com/hc/en-us/articles/202822600-Where-Is-My-Purchase-Code-
